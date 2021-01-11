@@ -1,6 +1,9 @@
 {
 	"name": "IOLOII",
+	// "$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	// 形参斜体 关键
+	"semanticHighlighting": true,
 	"colors": {
 		"activityBar.activeBorder": "#f9826c",
 		"activityBar.background": "#24292e",
@@ -516,6 +519,14 @@
 				"foreground": "#6A737D"
 			}
 		},
+		// {
+		// 	"scope": [
+		// 		"emphasis"
+		// 	],
+		// 	"settings": {
+		// 		"fontStyle": "italic"
+		// 	}
+		// },
 		{
 			"scope": [
 				"constant",
@@ -527,40 +538,53 @@
 				"foreground": "#79B8FF"
 			}
 		},
+		// 方法对象
 		{
 			"scope": [
-				"entity",
+				// "entity",
 				"entity.name"
 			],
 			"settings": {
-				"foreground": "#B392F0"
+				"foreground": "#00ffa6"
 			}
 		},
+		{
+			"scope": [
+				"entity",
+				// "entity.name"
+			],
+			"settings": {
+				"foreground": "#ff6369"
+					}
+				},
 		{
 			"scope": "variable.parameter.function",
 			"settings": {
 				"foreground": "#E1E4E8"
 			}
 		},
+		// 标签颜色
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#85E89D"
+				"foreground": "#00ffa6"
 			}
 		},
+		// if = 关键字
 		{
 			"scope": "keyword",
 			"settings": {
 				"foreground": "#F97583"
 			}
 		},
+		// function var
 		{
 			"scope": [
 				"storage",
 				"storage.type"
 			],
 			"settings": {
-				"foreground": "#F97583"
+				"foreground": "#ff6369"
 			}
 		},
 		{
@@ -580,7 +604,7 @@
 				"string punctuation.section.embedded source"
 			],
 			"settings": {
-				"foreground": "#9ECBFF"
+				"foreground": "#98c2f8dc"
 			}
 		},
 		{
@@ -601,6 +625,7 @@
 				"foreground": "#FFAB70"
 			}
 		},
+		// 会影响到obj
 		{
 			"scope": "variable.other",
 			"settings": {
@@ -639,7 +664,7 @@
 			"scope": "carriage-return",
 			"settings": {
 				"foreground": "#24292E",
-				"background": "#F97583",
+				// "background": "#F97583",
 				"fontStyle": "italic underline"
 			}
 		},
@@ -868,6 +893,63 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
-		}
+		},
+		{
+			"scope": [
+				"comment.block.documentation variable"
+			],
+			"settings": {
+				"foreground": "#FFB86C",
+				"fontStyle": "italic"
+			}
+		},
+		// {
+		// 	"scope": [
+		// 		"entity.name.variable.parameter",
+		// 		"meta.at-rule.function variable",
+		// 		"meta.at-rule.mixin variable",
+		// 		"meta.function.arguments variable.other.php",
+		// 		"meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
+		// 		"variable.parameter"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#FFB86C",
+		// 		"fontStyle": "italic"
+		// 	}
+		// },
+		// {
+		// 	"scope": [
+		// 		"meta.import variable.other.readwrite",
+		// 		"meta.object-binding-pattern-variable variable.object.property",
+		// 		"meta.variable.assignment.destructured.object.coffee variable"
+		// 	],
+		// 	"settings": {
+		// 		"foreground": "#FFB86C",
+		// 		"fontStyle": "italic"
+		// 	}
+		// },
+		// 影响形参
+		{
+			"name": "Function parameters",
+			"scope": [
+				"variable.parameter"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#ffe669"
+			}
+		},
+		// {
+		// 	"name": "Destructuring / aliasing reference name (LHS)",
+		// 	"scope": [
+		// 		"meta.import variable.other.readwrite",
+		// 		"meta.object-binding-pattern-variable variable.object.property",
+		// 		"meta.variable.assignment.destructured.object.coffee variable"
+		// 	],
+		// 	"settings": {
+		// 		"fontStyle": "italic",
+		// 		"foreground": "#FFB86C"
+		// 	}
+		// },
 	]
 }
