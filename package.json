@@ -1,14 +1,31 @@
 {
     "name": "IOLOII",
-    "publisher": "IOLOII",
     "displayName": "IOLOII-Theme",
     "description": "DARK THEME,if you like ;) ",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "publisher": "IOLOII",
+    "license": "MIT",
+    "scripts": {
+        // "build": "node ./scripts/build.js",
+        // "lint": "node ./scripts/lint.js",
+        "package": "vsce package -o ./bin/dracula.vsix",
+        // "vscode:prepublish": "npm run build",
+        "publish": "vsce publish"
+    },
     "engines": {
         "vscode": "^1.52.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "IOLOII",
+        "ioloii",
+        "奥特曼",
+        "Ultraman",
+        "dark",
+        "theme",
+        "color-theme"
     ],
     "contributes": {
         "themes": [
@@ -22,5 +39,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/IOLOII/IOLOII-vscode-theme.git"
-    }
+    },
+    "icon": "icon.png"
 }

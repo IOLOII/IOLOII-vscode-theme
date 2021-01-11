@@ -15,4 +15,9 @@
 * :lemon: ​At first, it was because a local dark theme was good-looking, but I found that some of the grammar was not very effective during use, so I figured it out and copied one.
 * :lemon: ​It's only the first time to use this feature, and it may be maintained in the future. For personal use, the themes and settings are my own favorites. Welcome to download and try
 
+## License
+
+[MIT License](https://github.com/IOLOII/IOLOII-vscode-theme/blob/master/LICENSE)
+
+
 **Enjoy!** :happy:
