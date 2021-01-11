@@ -1,0 +1,21 @@
+{
+    "name": "IOLOII",
+    "displayName": "IOLOII-THEME",
+    "description": "BASE GITHUB DARK THEME",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "IOLOII",
+                "uiTheme": "vs-dark",
+                "path": "./themes/IOLOII-color-theme.json"
+            }
+        ]
+    }
+}
