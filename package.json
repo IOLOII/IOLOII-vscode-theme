@@ -6,11 +6,8 @@
     "publisher": "IOLOII",
     "license": "MIT",
     "scripts": {
-        // "build": "node ./scripts/build.js",
-        // "lint": "node ./scripts/lint.js",
-        "package": "vsce package -o ./bin/dracula.vsix",
-        // "vscode:prepublish": "npm run build",
-        "publish": "vsce publish"
+        "package": "vsce package",
+        "vsce-publish": "vsce publish"
     },
     "engines": {
         "vscode": "^1.52.0"
