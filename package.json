@@ -1,8 +1,8 @@
 {
-    "name": "IOLOII",
-    "displayName": "IOLOII-THEME",
-    "description": "BASE GITHUB DARK THEME",
-    "version": "0.0.1",
+    "name": "IOLOII Dark",
+    "displayName": "IOLOII-Theme",
+    "description": "DARK THEME,if you like ;) ",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "IOLOII",
-                "uiTheme": "vs-dark",
-                "path": "./themes/IOLOII-color-theme.json"
+                "label": "IOLOII Dark",
+                "uiTheme": "vs-Dark",
+                "path": "./themes/IOLOII-dark-color-theme.json"
             }
         ]
     }
