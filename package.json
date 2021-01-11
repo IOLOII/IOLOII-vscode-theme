@@ -18,5 +18,9 @@
                 "path": "./themes/IOLOII-dark-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IOLOII/IOLOII-vscode-theme.git"
     }
 }
