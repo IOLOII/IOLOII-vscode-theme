@@ -1,7 +1,7 @@
 # :rocket: README 
 ## This is the README for this extension "IOLOII"   
 
-![Screenshot](https://github.com/IOLOII/IOLOII-vscode-theme/blob/master/screenshot.png)
+![Screenshot](https://ioloii.com/img/screenshot.png)
 
 * :balloon: ​根据自己的兴趣爱好设计了这一个主题
 * :balloon: ​起初是因为本地的一个dark主题好看,但是使用中发现部分语法的效果不是很好,所以自己琢磨临摹了一个出来
