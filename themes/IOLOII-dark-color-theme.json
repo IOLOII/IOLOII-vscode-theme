@@ -1,6 +1,5 @@
 {
 	"name": "IOLOII",
-	// "$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	// 形参斜体 关键
 	"semanticHighlighting": true,
