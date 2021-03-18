@@ -10,7 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - 更新screenshot
 - 更新Gist,上传公共Gist。关于拓展sync的下载与使用:[点击这里](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-> version: 1.0.3:
+> version: 1.0.4:
 - 修改logo,修改样式配置文件,更新sync gist id,重新定义IOLOII
 
 
@@ -19,5 +19,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Update screenshot
 - Update Gist, upload public Gist. About the download and use of extended sync:[Click here](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-> version: 1.0.3:
+> version: 1.0.4:
 - Modify the logo, modify the style configuration file, update sync gist id, redefine IOLOII ==> MR.BOBO (DRAGON BALL)
