@@ -13,6 +13,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 > version: 1.0.4:
 - 修改logo,修改样式配置文件,更新sync gist id,重新定义IOLOII
 
+> version: 1.0.5:
+- 修改样式配置文件,更新sync gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c
+
 
 ## [Here is Google Translate]
 > version: 1.0.2:
@@ -21,3 +24,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 > version: 1.0.4:
 - Modify the logo, modify the style configuration file, update sync gist id, redefine IOLOII ==> MR.BOBO (DRAGON BALL)
+
+> version: 1.0.5:
+- modify the style configuration file, update public sync gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c
