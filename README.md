@@ -10,7 +10,7 @@ The English translation is below
 * :balloon: 关于如何安装:如果你在github上看见了这个仓库,那么推荐你回到在vscode插件商店搜索"IOLOII"来下载安装,因为我还没有准备如何通过github仓库安装的使用文档.
 
 # update
-* :star::star: 配套使用拓展sync: ~~配置Gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c。请复制这个 ID 并将其用于其他设备来下载配置。
+* :star::star: 配套使用拓展sync: ~~配置Gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c。请复制这个 ID 并将其用于其他设备来下载配置。~~
 * 这是我自己使用的一套开发配置,如果觉得好看,欢迎尝试!
 * 欢迎下载体验
 
@@ -23,7 +23,7 @@ The English translation is below
 * :lemon: ​About how to install: If you see this repository on github, then it is recommended that you go back and search for "IOLOII" in the vscode plug-in store to download and install, because I have not prepared the documentation on how to install it through the github repository.
 
 # update
-* :star::star: Supporting the use of extended sync: ~~Configure Gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c. Please copy this ID and use it for other devices to download the configuration.
+* :star::star: Supporting the use of extended sync: ~~Configure Gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c. Please copy this ID and use it for other devices to download the configuration.~~
 * This is a set of development configuration that I use myself, if you feel good-looking, welcome to try!
 
 ## License
