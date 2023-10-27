@@ -1,8 +1,8 @@
 {
-    "name": "IOLOII",
-    "displayName": "IOLOII-Theme",
-    "description": "DARK THEME,if you like ;) ",
-    "version": "1.0.6",
+    "name": "theme",
+    "displayName": "Oh! Theme",
+    "description": "Oh! Use This Theme! Yes! Yes! Yes!",
+    "version": "1.0.7",
     "publisher": "IOLOII",
     "license": "MIT",
     "scripts": {
@@ -16,6 +16,7 @@
         "Themes"
     ],
     "keywords": [
+        "Oh! Theme",
         "IOLOII",
         "ioloii",
         "波波先生",
@@ -27,7 +28,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "IOLOII Dark",
+                "label": "Oh! Use This Theme! Yes! Yes! Yes!",
                 "uiTheme": "vs-Dark",
                 "path": "./themes/IOLOII-dark-color-theme.json"
             }
