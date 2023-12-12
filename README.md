@@ -1,8 +1,7 @@
 # :rocket: README
+# 这个主题现在维护在 [`IOLOII.Oh-Theme`](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme) ，请在插件商店下载并安装最新版本, 非常感谢你对这个主题插件的喜爱🙏
 
-# 这个主题现在维护在 [`IOLOII.Oh-Theme`](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme) ，请在插件商店下载并安装最新版本
-
-# This theme is currently maintained in [`IOLOII.Oh-Theme`](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme). Please download and install the latest version from the plugin store
+# This theme is currently maintained in [`IOLOII.Oh-Theme`](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme). Please download and install the latest version from the plugin store. Thank you very much for your love of this theme-plugin🙏
 
 <!-- [`IOLOII.Oh-Theme`](https://marketplace.visualstudio.com/items?itemName=IOLOII.Oh-Theme) -->
 
