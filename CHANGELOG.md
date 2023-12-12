@@ -19,6 +19,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 > version: 1.0.6:
 - 修改readme文件
 
+> version: 1.0.8:
+- 优化右侧资源目录下当前选中文件的高亮配色
+  --vscode-list-inactiveSelectionForeground 字体颜色
+  --vscode-list-inactiveSelectionBackground 背景色
+  --vscode-list-inactiveSelectionBackground
+  <!-- --vscode-gitDecoration-modifiedResourceForeground  字体颜色 -->
+
 
 ## [Here is Google Translate]
 > version: 1.0.2:

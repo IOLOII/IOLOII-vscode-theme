@@ -16,6 +16,8 @@
         "Themes"
     ],
     "keywords": [
+        "Oh! Theme",
+        "Yes!",
         "IOLOII",
         "ioloii",
         "波波先生",
@@ -27,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "IOLOII Dark",
+                "label": "Oh! Use This Theme! Yes! Yes! Yes!",
                 "uiTheme": "vs-Dark",
                 "path": "./themes/IOLOII-dark-color-theme.json"
             }
