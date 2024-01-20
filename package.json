@@ -32,6 +32,11 @@
                 "label": "Oh! Use This Theme! Yes! Yes! Yes!",
                 "uiTheme": "vs-Dark",
                 "path": "./themes/IOLOII-dark-color-theme.json"
+            },
+            {
+                "label": "Oh! Use This Theme! Yes! Yes! Yes!",
+                "uiTheme": "vs",
+                "path": "./themes/IOLOII-dark-color-theme.json"
             }
         ]
     },
