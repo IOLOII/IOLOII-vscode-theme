@@ -114,8 +114,9 @@
 		"scrollbarSlider.hoverBackground": "#6a737d44",
 		"settings.headerForeground": "#e1e4e8",
 		"settings.modifiedItemIndicator": "#0366d6",
-		"sideBar.background": "#ffffff00",
-		"sideBar.border": "#ffffff00",
+		// 侧边栏文件夹收起后的背景色，之前是透明，现在折叠之后出现了穿透
+		"sideBar.background": "#252526",
+		"sideBar.border": "#252526",
 		"sideBar.foreground": "#ffffffe1",
 		"sideBarSectionHeader.background": "#ffffff00",
 		"sideBarSectionHeader.border": "#ffffff00",

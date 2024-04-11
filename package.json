@@ -2,7 +2,7 @@
     "name": "Oh-Theme",
     "displayName": "Oh! Theme",
     "description": "Oh! Use This Theme! Yes! Yes! Yes!",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "publisher": "IOLOII",
     "license": "MIT",
     "scripts": {
@@ -10,7 +10,8 @@
         "vsce-publish": "vsce publish"
     },
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.52.0",
+        "node": "16.x"
     },
     "categories": [
         "Themes"
