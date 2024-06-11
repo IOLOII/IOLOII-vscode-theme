@@ -1,6 +1,6 @@
 # :rocket: Oh! Theme
 
-> 一个暗色主题，主要色调。 A dark theme with main tones.
+> A dark theme with main tones.
 
 <div style="width: auto;height: auto;display: flex;flex-direction: row;flex-wrap: wrap;gap: 10px;margin-bottom: 10px;background:#25292e;background-color: #25292e;padding: 20px;border-radius: 20px;">
 <span style="background: #2188ff;padding: 10px;border-radius: 10px;width: 30px;display: inline-block;height: 30px;"></span>
@@ -17,7 +17,7 @@
 </div>
 
 
-##### The English translation is below
+<!-- ##### The English translation is below
 
 * :balloon: ​根据自己的兴趣爱好设计了这一个主题
 * :balloon: ​起初是因为本地的一个dark主题好看,但是使用中发现部分语法的效果不是很好,所以自己琢磨临摹了一个出来
@@ -25,15 +25,15 @@
 * :balloon: 关于如何安装:如果你在github上看见了这个仓库,那么推荐你回到在vscode插件商店搜索"IOLOII-VSCODE-THEME"来下载安装,因为我还没有准备如何通过github仓库安装的使用文档.
 
 ## 使用：
-点击设置图标或者在修改主题，在主题选择面板中选中"Oh! Use This Theme! Yes! Yes! Yes!"
+点击设置图标或者在修改主题，在主题选择面板中选中"Oh! Use This Theme! Yes! Yes! Yes!" -->
 
-## update
+<!-- ## update -->
 
-* 欢迎下载体验
+<!-- * 欢迎下载体验 -->
 
 ![Screenshot](https://raw.githubusercontent.com/IOLOII/IOLOII-vscode-theme/master/screenshot.png)
 ---
-## Here is Google Translate:
+<!-- ## Here is Google Translate: -->
 
 * :lemon: ​Designed this theme according to my hobbies
 * :lemon: ​At first, it was because a local dark theme was good-looking, but I found that some of the grammar was not very effective during use, so I figured it out and copied one.

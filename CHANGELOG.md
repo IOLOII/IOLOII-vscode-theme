@@ -1,4 +1,4 @@
-# Change Log [版本记录]
+# Change Log
 
 All notable changes to the "IOLOII" extension will be documented in this file.
 
@@ -7,30 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [released]
 
 > version: 1.0.2:
-- 更新screenshot
-- 更新Gist,上传公共Gist。关于拓展sync的下载与使用:[点击这里](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
-> version: 1.0.4:
-- 修改logo,修改样式配置文件,更新sync gist id,重新定义IOLOII
-
-> version: 1.0.5:
-- 修改样式配置文件,更新sync gist ID:b1271d4e92ce2a7e6797ff365b1b3c7c
-
-> version: 1.0.6:
-- 修改readme文件
-
-> version: 1.0.8:
-- 优化右侧资源目录下当前选中文件的高亮配色
-  --vscode-list-inactiveSelectionForeground 字体颜色
-  --vscode-list-inactiveSelectionBackground 背景色
-  --vscode-list-inactiveSelectionBackground
-  <!-- --vscode-gitDecoration-modifiedResourceForeground  字体颜色 -->
-
-
-## [Here is Google Translate]
-> version: 1.0.2:
 - Update screenshot
-- Update Gist, upload public Gist. About the download and use of extended sync:[Click here](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- ~~Update Gist, upload public Gist. About the download and use of extended sync:[Click here](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)~~
 
 > version: 1.0.4:
 - Modify the logo, modify the style configuration file, update sync gist id, redefine IOLOII ==> MR.BOBO (DRAGON BALL)
@@ -40,3 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 > version: 1.0.5:
 - modify readme.md file
+
+> version: 1.1.0:
+- update for vscode 1.90.0
